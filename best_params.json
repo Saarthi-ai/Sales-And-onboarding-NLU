@@ -1,0 +1,4 @@
+{
+  "student_lstm_dim": 568,
+  "student_word_emb_dim": 136
+}
